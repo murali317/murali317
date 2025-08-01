@@ -10,8 +10,7 @@
 <div align="center">
   <h3>Profile View Count:</h3>  &nbsp;
   
-  <img src="https://komarev.com/ghpvc/?username=murali317&label=Profile-Views&color=blue&style=flat-square" alt="Profile views"/>
-  <img src="https://komarev.com/ghpvc/?username=murali317&label=VISITORS&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=murali317&label=PROFILE_VIEWS&color=blue&style=flat-square" alt="Profile views" width = '150'/>
 
 </div>
 
