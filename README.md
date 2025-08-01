@@ -16,7 +16,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murali317&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  ![Profile views](https://komarev.com/ghpvc/?username=murali317&color=blue&style=flat-square)
+  # 👋 Hi, I'm Murali317
+
+![Profile views](https://komarev.com/ghpvc/?username=murali317&color=blue&style=flat-square)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murali317&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murali317&layout=compact&theme=dracula)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murali317&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
