@@ -44,6 +44,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="csharp logo"  />
+  <img width="12" />
+  <img height="60" alt="image" src="https://github.com/user-attachments/assets/dceff4cb-5c84-4b46-a447-5cb79df32568" />
+  <img width="12" />
+  <img height="60" alt="image" src="https://github.com/user-attachments/assets/00ed16f2-eb51-4e9b-afb2-3da0acb5b17f" />
+  <img width="12" />
+  <img height="60" alt="image" src="https://github.com/user-attachments/assets/c80c4b89-9141-463a-b741-95eb34aef83a" />
+  <img width="12" />
+  <img height="60" alt="image" src="https://github.com/user-attachments/assets/80b11ffd-593d-4379-8cd1-4b677f4e3393" />
+  <img width="12" />
+  
+
+  
+
 </div>
 
 
