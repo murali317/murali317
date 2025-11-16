@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muralikrishna and I'm a Software Engineer 💻, from India ❤️</h2>
+<h2 align="left">Hi 👋! My name is Muralikrishna and I'm a Software Engineer from India ❤️</h2>
 
 
 <div align="center">
